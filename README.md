@@ -9,7 +9,7 @@
 
 <div align="center">
   
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFD700&size=22&center=true&vCenter=true&width=700&height=100&lines=🌸+Développeuse+qui+code+en+Kigurumi+Licorne+🦄;⚙️+Je+transforme+le+café+en+bugs...+euh+en+code+☕;🚀+Ma+mission:+sauver+le+monde+un+BUG+à+la+fois+💫;🎮+Error+418:+Je+suis+une+théière,+pas+un+café+🫖;💜+Debugging+level:+Parler+aux+humains+qui+ne+parlent+pas+aux+machines💀)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFD700&size=22&center=true&vCenter=true&width=700&height=100&lines=🌸+Développeuse+qui+code+en+Kigurumi+Licorne+🦄;⚙️+Je+transforme+le+café+en+bugs...+euh+en+code+☕;🚀+Ma+mission:+sauver+le+monde+un+BUG+à+la+fois+💫;🎮+Error+418:+Je+suis+une+théière,+pas+un+café+🫖;💜+Debugging+level:+Parler+aux+humains+💀;)
 
 </div>
 
