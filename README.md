@@ -9,7 +9,7 @@
 
 <div align="center">
   
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFD700&size=26&center=true&vCenter=true&width=1000&height=100&lines=🌸+Développeuse+qui+code+en+Kigurumi+Licorne+🦄;⚙️+Je+transforme+le+café+en+bugs...+euh+en+code+☕;🚀+Ma+mission:+sauver+le+monde+un+BUG+à+la+fois+💫;🎮+Error+418:+Je+suis+une+théière,+pas+un+café+🫖;💜+Debugging+level:+Parler+aux+humains+💀;)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFD700&size=26&center=true&vCenter=true&width=1000&height=100&lines=🌸+Développeuse+qui+code+en+Kigurumi+Licorne+🦄;⚙️+Je+transforme+le+café+en+bugs...+euh+en+code+☕;🚀+Ma+mission:+sauver+le+monde+un+BUG+à+la+fois+💫;🎮+Error+418:+Je+suis+une+théière,+pas+une+cafétière+🫖;💜+Debugging+level:+Parler+aux+humains+💀;)
 
 </div>
 
@@ -18,7 +18,7 @@
 ```
 json {
   "username": "Laure ' comme ' Lorlavie",
-  "class": "Creative-Développeuse-perchée",
+  "class": "Creative-Développeuse-Magic'Designeuse",
   "habitat_naturel": "Entre_mon_bureau_et_mon_bureau.exe",
   "alimentation": "Café noir + café au lait + âmes de bugs détruits",
   "langue_maternelle": "JavaScript (je rêve en async/await)",
@@ -73,7 +73,7 @@ Patience:     ███░░░░░░░ 30% (diminue quand on dit "c'est fa
 
 - 🦄 **Naming Convention :** Mes variables ont des noms plus kawaii que moi (`let unicornSparkled = 'magic'`)
 - 🍜 **Philosophie de Vie :** "Il n'y a pas de bugs, que des features non documentées" (je me console comme je peux)
-- 🎨 **Collection Secrète :** Thème pets VS Code (oui, j'ai un problème... et alors?)
+- 🎨 **Collection Secrète :** Thème pets VS Code (oui.. et alors?)
 - 🤖 **Talent Caché :** Je peux transformer un "Hello World" en énigme de 3h
 - 🍕 **Ritual Sacré :** Chaque ligne de code qui compile = un petit café de la victoire
 - 🎲 **Superstition :** Je ne déploie JAMAIS le vendredi (j'ai appris à mes dépens... enfin, je vais apprendre)
@@ -113,7 +113,7 @@ Patience:     ███░░░░░░░ 30% (diminue quand on dit "c'est fa
 
 <div align="center" style="background: linear-gradient(45deg, #000000, #FF1493, #FFD700, #4B0082);">
   
-### 💫 *"Il y a 10 types de personnes dans le monde : celles qui comprennent le binaire et les autres... et moi qui crée des bugs en dormant"* 💫
+### 💫 *"Il y a 2 types de personnes dans le monde : celles qui comprennent le binaire et les autres... et moi qui crée des bugs en dormant"* 💫
 
 ![Visitors](https://komarev.com/ghpvc/?username=LaureLavie&color=FF1493&style=for-the-badge&label=STALKERS&labelColor=000000)
 
