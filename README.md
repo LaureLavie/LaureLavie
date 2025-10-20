@@ -1,4 +1,4 @@
-# ✨ Bon Jour, C'est Laure de me connaître ! (pourri mais assumé) ✨
+# ✨ Bon Jour à tous ✨
 ### `> Lorlavie.exe démarrage en cours... Chargement de ma vie... 99% ⚡` 
 
 ```ascii
