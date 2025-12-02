@@ -65,9 +65,8 @@ Aujourd'hui : fusion de tous ces univers en code 🚀
 
 **Le reste...** se dévoilera au fil des expérimentations... 🎲⚙️
 
-</div>
-
-🌟 Ce qui me rend unique
+### `>> 🌟 Ce qui me rend unique`
+```
 Profil Hybride = Atout Stratégique
 ├── Vision Créative (Design + Arts)
 ├── Rigueur Technique (Code + Développement)
@@ -75,8 +74,10 @@ Profil Hybride = Atout Stratégique
 ├── Communication (Storytelling + Marketing)
 └── Entrepreneuriat (Auto-entreprise 5 ans)
 
-= Une développeuse qui comprend le besoin métier, 
-  l'expérience utilisateur ET la stratégie business
+= Une développeuse qui comprend le besoin métier,
+l'expérience utilisateur ET la stratégie business
+```
+</div>
 
 ## 🎮 Quêtes & Expéditions en Cours
 
@@ -124,9 +125,9 @@ Patience:     ███░░░░░░░ 30% (s'évapore au "c'est simple, i
 > *"Ajout de magie, commit pushé (possiblement)"*  
 > *"Ceci est soit un bug, soit une feature, l'avenir le dira"*  
 > *"TODO: Apprendre à écrire de vrais messages de commit"*
-> "Le code, c'est comme le textile : on tisse des fils (de logique) pour créer quelque chose d'utile ET de beau."
-> "Chaque bug est une énigme. Chaque résolution, une victoire."
-> "Designer-Développeuse, c'est comprendre l'humain avant de coder pour lui."
+> *"Le code, c'est comme le textile : on tisse des fils (de logique) pour créer quelque chose d'utile ET de beau."*
+> *"Chaque bug est une énigme. Chaque résolution, une victoire."*
+> *"Designer-Développeuse, c'est comprendre l'humain avant de coder pour lui."*
 
 ## 💌 Points de Connexion & Télégraphes Modernes
 
@@ -143,9 +144,9 @@ Patience:     ███░░░░░░░ 30% (s'évapore au "c'est simple, i
 
 <div align="center">
 ⚙️ "Du design textile au développement web : même créativité, nouveau langage" ⚙️
-[Afficher l'image](https://komarev.com/ghpvc/?username=LaureLavie&color=FFD700&style=for-the-badge&label=VISITEURS&labelColor=000000)
+[![Afficher l'image](https://komarev.com/ghpvc/?username=LaureLavie&color=FFD700&style=for-the-badge&label=VISITEURS&labelColor=000000)]
 ⚡ Alimentée par : 30% café ☕ | 25% créativité 🎨 | 20% code 💻 | 15% gestion de projet 📊 | 10% musique 🎵 ⚡
-
+</div>
 ---
 
 <div align="center">
