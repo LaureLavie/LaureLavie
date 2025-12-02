@@ -28,11 +28,6 @@
   "phobies": ["Internet Explorer", "Code sans commentaires", "Déploiement le vendredi"]
 }
 ```
-
-## 🛠️ Arsenal de l'Atelier (et Destruction Contrôlée de Bugs)
-
-<div align="center">
-
 ### `>>🎨 L'ADN Créatif → Technique`
 
 Du dessin au développement, une trajectoire atypique qui fait ma force
@@ -46,6 +41,10 @@ Avant le code, il y avait...
 - 🌍 Une organisatrice d'événements (dont un colloque international tourisme)
 
 Aujourd'hui : fusion de tous ces univers en code 🚀
+
+## 🛠️ Arsenal de l'Atelier (et Destruction Contrôlée de Bugs)
+
+<div align="center">
 
 ### `>> Outils Principaux de mon âme Numérique`
 
@@ -124,12 +123,13 @@ Patience:     ███░░░░░░░ 30% (s'évapore au "c'est simple, i
 ## 💬 Inscriptions Mémorables dans l'Histoire des Commits
 
 > *"Ça fonctionne mais je ne sais pas pourquoi... ne touchez à rien"*  
-> *"Ajout de magie, commit pushé (possiblement)"*  
-> *"Ceci est soit un bug, soit une feature, l'avenir le dira"*
+> *"Ajout de magie, commit pushé (possiblement)"*
+> *"Designer-Développeuse, c'est comprendre l'humain avant de coder pour lui."* 
 > *"TODO: Apprendre à écrire de vrais messages de commit"*
-> *"Le code, c'est comme le textile : on tisse des fils (de logique) pour créer quelque chose d'utile ET de beau."*
-> *"Chaque bug est une énigme. Chaque résolution, une victoire."*
-> *"Designer-Développeuse, c'est comprendre l'humain avant de coder pour lui."*   
+> *"Chaque bug est une énigme. Chaque résolution, une victoire"*  
+> *"Le code, c'est comme le textile : on tisse des fils (de logique) pour créer quelque chose d'utile ET de beau."*  
+> *"Ceci est soit un bug, soit une feature, l'avenir le dira"*
+
 
 ## 💌 Points de Connexion & Télégraphes Modernes
 
@@ -147,15 +147,16 @@ Patience:     ███░░░░░░░ 30% (s'évapore au "c'est simple, i
 <div align="center">
 ⚙️ "Du design textile au développement web : même créativité, nouveau langage" ⚙️
     
-![Visitors](https://komarev.com/ghpvc/?username=LaureLavie&color=FFD700&style=for-the-badge&label=VISITEURS&labelColor=000000)
-⚡ Alimentée par : 30% café ☕ | 25% créativité 🎨 | 20% code 💻 | 15% gestion de projet 📊 | 10% musique 🎵 ⚡
+    ![Visitors](https://komarev.com/ghpvc/?username=LaureLavie&color=FFD700&style=for-the-badge&label=VISITEURS&labelColor=000000)
+    
+    ⚡ Alimentée par : 30% café ☕ | 25% créativité 🎨 | 20% code 💻 | 15% gestion de projet 📊 | 10% musique 🎵 ⚡
 
 </div>
 ---
 
 <div align="center">
   
-### 🎵 *Playlist actuelle : "Symphony Epic Dream" - Fusion Cat-Gold* 🎵
+### 🎵 *Playlist actuelle : "Symphony Epic Dream" - Design Cat-Gold* 🎵
 
 *🕰️ Rappel : Dans un monde rempli de bugs, sois la feature que tu aspires à voir 🕰️*  
 *⚙️ PS : Si tu découvres un bug dans ce README... c'est une feature d'apprentissage ! ⚙️*
@@ -169,7 +170,7 @@ Patience:     ███░░░░░░░ 30% (s'évapore au "c'est simple, i
 ```
     ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
     ░ FIN DE TRANSMISSION - MERCI D'AVOIR LU JUSQU'ICI░
-    ░       Tu mérites un cookie 🍪 et un high-five ✋░  
+    ░       Tu mérites un cookie 🍪 et un salut !   ✋░  
     ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 ```
 
