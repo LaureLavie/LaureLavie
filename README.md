@@ -145,8 +145,7 @@ Patience:     ███░░░░░░░ 30% (s'évapore au "c'est simple, i
 ---
 
 <div align="center">
-⚙️ "Du design textile au développement web : même créativité, nouveau langage" ⚙️
-    
+⚙️ "Du design textile au développement web : même créativité, nouveau langage" ⚙️    
     ![Visitors](https://komarev.com/ghpvc/?username=LaureLavie&color=FFD700&style=for-the-badge&label=VISITEURS&labelColor=000000)
     
     ⚡ Alimentée par : 30% café ☕ | 25% créativité 🎨 | 20% code 💻 | 15% gestion de projet 📊 | 10% musique 🎵 ⚡
