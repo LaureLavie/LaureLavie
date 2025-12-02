@@ -124,7 +124,7 @@ Patience:     ███░░░░░░░ 30% (s'évapore au "c'est simple, i
 
 > *"Ça fonctionne mais je ne sais pas pourquoi... ne touchez à rien"*  
 > *"Ajout de magie, commit pushé (possiblement)"*  
-> *"Designer-Développeuse, c'est comprendre l'humain avant de coder pour lui."* 
+> *"Designer-Développeuse, c'est comprendre l'humain avant de coder pour lui."*   
 > *"TODO: Apprendre à écrire de vrais messages de commit"*  
 > *"Chaque bug est une énigme. Chaque résolution, une victoire"*  
 > *"Le code, c'est comme le textile : on tisse des fils (de logique) pour créer quelque chose d'utile ET de beau."*  
