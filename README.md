@@ -1,30 +1,31 @@
-# ⚙️ Bienvenue dans l'Atelier ⚙️
-### `> Lorlavie.exe initialisation... Chargement de ma life... 99% ⚡` 
+# ⚙️ Bienvenue dans Mon Univers Créatif ⚙️
+### `> Lorlavie.exe initialisation... Chargement de ma vie... 90% ⚡` 
 ```ascii
-    █████████████████████████████████████████████████████████████████████████████████████
-   ░▒▓█████ ☕ Designeuse-Dev qui compile le café en code depuis Avril 2025 ⚙️ ████████▓▒░
-    █████████████████████████████████████████████████████████████████████████████████████
+    ████████████████████████████████████████████████████████████████████████████████████████████████████████████████
+    ░▒▓█████ Designeuse-Dev qui compile le café (ou le thé pour les rebelles) en code depuis Avril 2025 █████████▓▒░
+    ████████████████████████████████████████████████████████████████████████████████████████████████████████████████
 ```
 
 <div align="center">
   
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFD700&size=26&center=true&vCenter=true&width=1000&height=100&lines=⚙️+Designer-Développeuse+dans+un+monde+de+rouages+🔧;☕+Je+transforme+le+café+en+jolis+commits;🎩+Apprentie+de+l'Art+du+Code+et+du+Design+Visuel+✨;🔩+Error+418:+Je+suis+une+théière,+pas+une+machine+🫖;⚡+Debugging+level:+Archéologie+numérique+💀)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFD700&size=26&center=true&vCenter=true&width=1000&height=100&lines=🎭+Designer+🔧+Développeuse+Créatrice+🎨;☕+Du+textile+au+code+je+compile+des+univers+🌍;🎩+Apprentie+de+l'Art+du+Code+et+du+Design+Visuel+✨;🔩+Error+418:+Je+suis+une+théière,+pas+une+machine+🫖;⚡+Debugging+level:+Archéologie+numérique+💀)
 
 </div>
 
-## 🔮 Schéma Technique de l'Inventrice
+## 🔮 Schéma artistique & digitale de la créatrice
 
 ```json
 {
   "identité": "Laure ' alias ' Lorlavie",
   "profession": "Designer-Développeuse-Apprentie-du-Web",
-  "localisation": "Atelier.exe // Bureau_Dimension_Parallèle",
-  "carburant": "Café noir + engrenages rouillés + âmes de bugs vaincus",
+  "formation": "CDA IA - Fabrique Numérique Paloise (2025)",
+  "localisation": "Arudy.exe // Bureau_Dimension_Parallèle",
   "dialecte": "Figma? (je visualise des maquettes/prototypes la nuit)",
-  "compétence_cachée": "Inventer des bugs que personne n'a jamais vus 😴",
-  "dernière_apparition": "Il y a 2 minutes... ou était-ce dans une autre dimension? 🕰️",
-  "statut": "En relation exclusive avec VS Code depuis avril",
-  "phobies": ["Internet Explorer", "Code sans commentaires", "Réunions à 8h"]
+  "carburant": "Café noir + créativité débordante + âmes de bugs vaincus",
+  "super_pouvoirs": ["Design textile", "Storytelling", "Code", "Musique & Écriture"],
+  "compétence_cachée": "Jongler entre 47 projets créatifs simultanément 🎨",
+  "statut": "Disponible immédiatement pour alternance CDA IA",
+  "phobies": ["Internet Explorer", "Code sans commentaires", "Déploiement le vendredi"]
 }
 ```
 
@@ -32,7 +33,21 @@
 
 <div align="center">
 
-### `>> Outils Principaux de Forge Numérique`
+### `>>🎨 L'ADN Créatif → Technique`
+
+Du dessin au développement, une trajectoire atypique qui fait ma force
+
+Avant le code, il y avait...
+
+🎭 Une auto-entrepreneuse créative (design textile, objets résine, illustrations)
+📝 Une auteure-compositrice qui raconte des histoires en musique et en mots
+🎨 Une designer graphique (Illustrator, InDesign, Photoshop)
+💼 Une cheffe de projet (gestion, communication, management d'équipes)
+🌍 Une organisatrice d'événements (dont un colloque international tourisme)
+
+Aujourd'hui : fusion de tous ces univers en code 🚀
+
+### `>> Outils Principaux de mon âme Numérique`
 
 ![React](https://img.shields.io/badge/React-FFD700?style=for-the-badge&logo=react&logoColor=000000&labelColor=4B0082)
 ![JavaScript](https://img.shields.io/badge/JavaScript-FFD700?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=4B0082)
@@ -51,6 +66,17 @@
 **Le reste...** se dévoilera au fil des expérimentations... 🎲⚙️
 
 </div>
+
+🌟 Ce qui me rend unique
+Profil Hybride = Atout Stratégique
+├── Vision Créative (Design + Arts)
+├── Rigueur Technique (Code + Développement)
+├── Expérience Management (Gestion de projet + Équipes)
+├── Communication (Storytelling + Marketing)
+└── Entrepreneuriat (Auto-entreprise 5 ans)
+
+= Une développeuse qui comprend le besoin métier, 
+  l'expérience utilisateur ET la stratégie business
 
 ## 🎮 Quêtes & Expéditions en Cours
 
@@ -71,7 +97,7 @@ Humeur:       😎 "Je suis dev débutante, donc oui, je peux réparer votre gri
 Patience:     ███░░░░░░░ 30% (s'évapore au "c'est simple, il suffit de...")
 ```
 
-## 🌸 Particularités de cette Entité Numérique
+## 🌸 Particularités de mon Moi numérique
 
 - 🔧 **Convention de Nommage :** Mes variables portent des noms plus poétiques que moi (`let goldenCat = 'miaow'`)
 - 🍜 **Philosophie :** "Les bugs n'existent pas, ce sont des mystères non résolus"
@@ -85,20 +111,22 @@ Patience:     ███░░░░░░░ 30% (s'évapore au "c'est simple, i
 
 ```
 🎠 Galerie de Projets GitHub : 
-   ├── 🎭 ProjetQuiFonctionneEnLocal (Mystère persistant)
-   ├── 🎨 TodoAppNuméro1 (Premier essai, soyez cléments)
-   ├── 🚀 ApplicationRévolutionnaire (En gestation depuis mes débuts)
-   ├── 🐛 TentativeNuméro47 (Twist: j'apprends encore)
-   └── 🌟 LaVraieIdéeGéniale (Spoiler: peut-être bien)
+   ├── 🎭 LaureLavie : Ce README - ma carte de visite numérique (Markdown) => https://github.com/LaureLavie/LaureLavie
+   ├── 🎨 LorlavieDevDesign  (typescript, css) => https://laurelavie.github.io/LorlavieDevDesign/
+   ├── 🚀 Gîte Lorlavie : projet de certification DWFS (html, css) => https://laurelavie.github.io/gite_Lorlavie/
+   ├── 🐛 Porfolio-Lorlavie : Mon portfolio développeur créatif (react, css) => https://github.com/LaureLavie/Porfolio-Lorlavie
+   └── 🌟 Immers'Write (Spoiler: peut-être bien) projet personnel (nextjs) => https://github.com/LaureLavie/ImmersiveWrite
 ```
 
 ## 💬 Inscriptions Mémorables dans l'Histoire des Commits
 
-> *"First commit... probablement? 🤷‍♀️"*  
 > *"Ça fonctionne mais je ne sais pas pourquoi... ne touchez à rien"*  
-> *"Ajout de magie, retrait de confusion (possiblement)"*  
+> *"Ajout de magie, commit pushé (possiblement)"*  
 > *"Ceci est soit un bug, soit une feature, l'avenir le dira"*  
 > *"TODO: Apprendre à écrire de vrais messages de commit"*
+> "Le code, c'est comme le textile : on tisse des fils (de logique) pour créer quelque chose d'utile ET de beau."
+> "Chaque bug est une énigme. Chaque résolution, une victoire."
+> "Designer-Développeuse, c'est comprendre l'humain avant de coder pour lui."
 
 ## 💌 Points de Connexion & Télégraphes Modernes
 
@@ -114,26 +142,16 @@ Patience:     ███░░░░░░░ 30% (s'évapore au "c'est simple, i
 ---
 
 <div align="center">
-  
-### ⚙️ *"Il existe 2 types de personnes : celles qui comprennent le binaire, celles qui ne le comprennent pas... et moi qui invente des bugs dans mes rêves"* ⚙️
-
-![Visitors](https://komarev.com/ghpvc/?username=LaureLavie&color=FFD700&style=for-the-badge&label=VISITEURS&labelColor=000000)
-
-```
-⚡ Alimentée par : 40% café, 30% curiosité, 20% créativité, 10% questionnement existentiel ⚡
-```
-
-</div>
+⚙️ "Du design textile au développement web : même créativité, nouveau langage" ⚙️
+[Afficher l'image](https://komarev.com/ghpvc/?username=LaureLavie&color=FFD700&style=for-the-badge&label=VISITEURS&labelColor=000000)
+⚡ Alimentée par : 30% café ☕ | 25% créativité 🎨 | 20% code 💻 | 15% gestion de projet 📊 | 10% musique 🎵 ⚡
 
 ---
 
 <div align="center">
-  
-### 🎵 *Playlist actuelle : "Symphony Epic Dream" - Fusion Cat-Gold* 🎵
-
-*🕰️ Rappel : Dans un monde rempli de bugs, sois la feature que tu aspires à voir 🕰️*  
-*⚙️ PS : Si tu découvres un bug dans ce README... c'est une feature d'apprentissage ! ⚙️*
-
+🎵 "Coder, c'est composer une symphonie logique" 🎵
+🕰️ Parcours atypique = Vision unique • Design + Dev + Management = Profil Complet 🕰️
+⚙️ Prête à apporter ma touche créative et technique à votre équipe ! ⚙️
 </div>
 
 ---
