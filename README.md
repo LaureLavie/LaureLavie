@@ -12,7 +12,7 @@
 
 </div>
 
-## 🔮 Schéma artistique & digitale de la créatrice
+## 🔮 Schéma Artistique & Digital de la créatrice
 
 ```json
 {
