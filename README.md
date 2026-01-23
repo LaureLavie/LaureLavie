@@ -2,7 +2,7 @@
 
 # ✨ Laure Lavie
 
-### 🖋️ Créatrice de technologies pour storytellers
+### 🖋️ Créatrice et Coordinatrice de technologies pour storytellers
 
 *"Where words become worlds"*
 
