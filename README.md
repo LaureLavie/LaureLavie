@@ -20,14 +20,14 @@
 
 Il y a encore un an, le code ressemblait pour moi à des hiéroglyphes égyptiens rédigés par un développeur bourré. Avril 2025 arrive, je me lance dans une formation de développeur web. Résultat ? **J'ai eu ma certif.** Oui oui, je sais faire du HTML et du CSS maintenant. *Je suis crédible.* Enfin presque.
 
-Depuis septembre 2025, je suis en formation **CDA spécialisée IA** à la Fabrique Numérique Paloise. Je m'attaque actuellement à Next.js et Python avec tout le courage et la maladresse d'un chaton qui découvre un escalier. 
+Depuis septembre 2025, je suis en formation **CDA spécialisée IA** à la Fabrique Numérique Paloise. "Je m'attaque à Next.js et Python avec l'enthousiasme d'un personnage de Jane Austen qui tente de configurer un serveur : c'est très protocolaire, un peu dramatique, et ça finit souvent avec une tasse de thé froide et une erreur de syntaxe inexplicable." 
 
 **Mon parcours en 3 actes :**
 - 🧵 **Acte I :** J'ai fait du textile, de l'illustration, du design graphique, de l'auto-entrepreneuriat
-- ✍️ **Acte II :** J'ai écrit 3 livres que personne n'a lus (c'était OK jusqu'à ce que ça ne le soit plus)
+- ✍️ **Acte II :** J'ai écrit 3 livres qui sont actuellement en édition ultra-limitée (tellement limitée qu'ils ne sont disponibles que dans mon tiroir du bas)
 - 💻 **Acte III :** J'ai appris à coder pour construire ce que j'imaginais au lieu d'attendre que quelqu'un le fasse à ma place
 
-> **Plot twist :** Je ne cherche PAS d'alternance. Je travaille solo. J'ai l'esprit d'équipe, mais de *très* loin. Genre, à distance de sécurité sociale. 
+> **Plot twist :** "J'ai un excellent esprit d'équipe, mais je fonctionne en mode 'Microservices' : je communique via API, je traite mes requêtes en isolation, et je préfère éviter les collisions de déploiement en restant ma propre administratrice système."
 
 ---
 
@@ -145,12 +145,11 @@ Toujours   →  Auteure (3 livres dans un tiroir)
 
 ✅ **Je suis sérieuse** (quand il faut)  
 ✅ **Je suis travailleuse** (genre vraiment, demande à mes nuits blanches)  
-✅ **Je suis autodidacte** (Google et moi, on se connaît bien)  
+✅ **Je suis autodidacte** (Claude et moi, on se connaît bien)  
 ✅ **J'ai beaucoup d'humour** (indispensable pour survivre aux erreurs 500)  
 ✅ **Je suis très ouverte d'esprit** (sauf sur la question des tabs vs spaces)  
 
-❌ **Je ne sais pas me prendre au sérieux** (mais mon code, si)  
-❌ **Je ne cherche pas d'alternance** (solo player, désolée)  
+❌ **Je ne sais pas me prendre au sérieux** (Je prends mon code très au sérieux, mais je refuse de croire qu'un console.log('Par le pouvoir du crâne ancestral !') a un impact négatif sur la production)  
 ❌ **Je n'aime pas les commits tristes** (genre "fix bug" — NON. "✨ ajout magie de licorne dans le formulaire" — OUI.)
 
 ---
