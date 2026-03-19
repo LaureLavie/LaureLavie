@@ -1,7 +1,15 @@
 <div align="center">
-  <h1>✦ Laure Lavie ✦</h1>
+  ```
+⚙ ◈ ✦ ◈ ⚙ ◈ ✦ ◈ ⚙ ◈ ✦ ◈ ⚙ ◈ ✦ ◈ ⚙
+```
+ 
+# ✦ LAURE LAVIE ✦
+ 
+```
+⚙ ◈ ✦ ◈ ⚙ ◈ ✦ ◈ ⚙ ◈ ✦ ◈ ⚙ ◈ ✦ ◈ ⚙
+```
   <h3>🌙 Architecte d'immersions & couturière de code pour âmes narratives 🌙</h3>
-  <p><em>Je fabrique les machines à rêves que j'attendais adolescente, quand mes histoires s'endormaient dans des tiroirs capitonnés de velours.</em></p>
+  <p><em>Je code aujourd'hui les choses que j'aurais rêvé trouver il y a trois ans, quand mes trois romans prenaient la poussière dans un tiroir. Les livres y sont toujours. Le code, lui, compile (parfois).</em></p>
 
   <img src="https://img.shields.io/badge/Commits%20avec%20%C3%A2me-B38839?style=for-the-badge&logoColor=130F3B" alt="commits avec âme">
   <br><br>
@@ -12,32 +20,51 @@
 </div>
 
 ---
-
-### Qui je suis (version augmentée 2026)
-
-**En trois mots :** Créative. Auteure. Codeuse (depuis que le HTML a cessé de me snober).  
-**En une phrase :** Ancienne couturière d'histoires & d'étoffes, reconvertie en apprentie sorcière du full-stack qui parle aux API comme à des personnages secondaires un peu lunaires.
-
-**Mon arc narratif en trois actes (et demi) :**
+<br>
+ 
+```
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+   ◈  QUI SUIS-JE                                                         ⚙
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+```
+ 
+**Version acceptable en société :** Designer. Auteure. Développeuse fullstack en herbe.
+ 
+**Version honnête :** Une ancienne créative textile qui a décidé un matin que le HTML était moins intimidant qu'un patron de couture mal plié.
+ 
+| | |
+|:---|:---|
+| `Avril 2025` | Certification développeur web obtenue — le HTML n'a pas ri au nez de mes marges. |
+| `Depuis sept. 2025` | Formation **CDA spécialisée IA** à la Fabrique Numérique Paloise : Next.js, Python, FastAPI… et le thé pour survivre aux 500. |
+ 
+<br>
+ 
+```
+── ◈ PARCOURS EN TROIS ACTES TRAGICO-COMIQUES ◈ ─────────────────────────────
+```
+<table>
+<tr>
+<td width="33%" align="center">
 
 1. **Acte I – Le fil & l'encre**  
    Textile, illustration, design graphique, auto-entrepreneuriat.  
    *J'ai appris à créer. Pas encore à facturer. C'est en backlog prioritaire depuis 2018.*
 
 2. **Acte II – Les mondes papier**  
-   Trois romans écrits avec soin, passion… et une discrétion éditoriale quasi victorienne.  
-   *Tirage actuel : exemplaire unique + droits de lecture exclusifs accordés à un chat très critique.*
+   Trois romans écrits avec soin, passion… et une discrétion éditoriale incroyable.  
+   *Tirage actuel : quelques exemplaires + droits de lecture exclusifs accordés à un chat très critique.*
 
 3. **Acte III – La vapeur numérique**  
    Avril 2025 : certification développeuse web (le HTML a survécu).  
    Septembre 2025 → aujourd'hui : formation **CDA spécialisée IA** – Fabrique Numérique Paloise.  
    *Next.js et moi entretenons une relation complexe mais respectueuse. Python me tutoie avec prudence.*
 
-**Note existentielle :** Je code comme j’écris : lentement, avec émojis de lune, et une saine terreur des vendredis soir en prod.
+**Note existentielle :** J'ai appris à coder pour arrêter d'attendre des outils farfelus... Je réalise maintenant mes propres farfelus.
 
 ---
 
 ### Projet phare – Immers’Write 🕯️
+◈   L'enfant turbulent que j'élève actuellement   ◈
 
 > Une plateforme où le texte ne se contente plus d’être lu : il **enveloppe**, il **chuchote**, il **respire**.  
 > Texte + Images IA + Voix IA = le lecteur ne tourne plus les pages. Il **traverse** le voile.
@@ -60,25 +87,32 @@ Immersion > scroll infini
 </div>
 
 ---
-
-### Petit musée de mes curiosités numériques
-
-| Symbole | Nom du repository                  | Véritable nature                              |
-|---------|------------------------------------|-----------------------------------------------|
-| 🦄      | Project_CalcUnicorn               | Calculatrice qui refuse d’être banale         |
-| 📜      | Quot_x_files                      | La vérité est quelque part… dans le DOM       |
-| ⚔️      | Quete_des_Gueux                   | Épopée low-poly promise, délivrée             |
-| ✅      | Liste_a_tout_faire                | Todo-list honnête (ne fait rien à ma place)   |
-| 🏡      | gite_Lorlavie                     | Certification – sobre, efficace, déployée     |
-| 🕰️      | Digital_Time                      | Horloge. Le CSS vieillit avec élégance        |
-
-**Distinction honorifique :** Merge direct sur main – badge YOLO non sollicité, mais accepté avec dignité.
-
----
-
-### Atelier & outillage (inventaire 2026)
-
-<div align="center">
+<br>
+ 
+```
+── ◈ MES REPOSITORIES — bébés numériques classés par degré de chaos ◈ ──────
+```
+ 
+| Projet | Description |
+|:---|:---|
+| `⚙ ImmersWrite` | Le grand projet — joies diurnes & frayeurs nocturnes |
+| `◈ Studio-IA` | Expériences autour de l'IA — un seul chantier ne suffit visiblement pas |
+| `✦ Project_CalcUnicorn` | Une calculatrice. Mais avec du style. Les maths méritent des paillettes. |
+| `◈ Quete_des_Gueux` | Un jeu. Le titre est plus épique que le code. L'intention y est. |
+| `⚙ Liste_a_tout_faire` | Todo-list classique. Elle liste. Elle ne fait pas à ma place. Dommage. |
+| `✦ Digital_Time` | Horloge digitale. Le temps passe. Mon CSS aussi, lentement. |
+| `◈ gite_Lorlavie` | Mon projet de certification. Sobre. Fonctionnel. Presque adulte. |
+ 
+*Il y en a d'autres, plus discrets. Ils attendent leur moment de gloire… ou leur enterrement discret.*
+ 
+<br>
+ 
+```
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+   ✦  L'ATELIER  —  sorcière junior qui confond parfois potion et poison    ◈
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+```
+ 
 
 **Langages & frameworks**  
 ![Next.js](https://img.shields.io/badge/Next.js-130F3B?style=for-the-badge&logo=nextdotjs&logoColor=B38839)
@@ -146,11 +180,31 @@ Immersion > scroll infini
 💼 [LinkedIn](https://www.linkedin.com/in/laurelavie/)  
 🌑 [immerswrite.carrd.co](https://immerswrite.carrd.co)
 
+ 
+```
+⚙ ◈ ✦ ◈ ⚙ ◈ ✦ ◈ ⚙ ◈ ✦ ◈ ⚙ ◈ ✦ ◈ ⚙ ◈ ✦ ◈ ⚙ ◈ ✦ ◈ ⚙ ◈ ✦ ◈ ⚙ ◈ ✦ ◈ ⚙
+```
+ 
+<div align="center">
+ 
+![Visitors](https://komarev.com/ghpvc/?username=LaureLavie&color=C9A84C&style=for-the-badge&label=PASSAGES+NOCTURNES&labelColor=16162A)
+ 
 <br>
-
-![Visitor Badge](https://komarev.com/ghpvc/?username=LaureLavie&color=B38839&style=for-the-badge&label=âmes%20de%20passage&labelColor=130F3B)
-
-**Where words weave worlds…**  
-**…and bugs become atmospheric details (si bien documentés).** 🌙
-
+ 
+### ✦ &nbsp; *Where words become worlds.* &nbsp; ✦
+ 
+*Et où les bugs deviennent des anecdotes…*
+*si on survit assez longtemps pour les raconter.*
+ 
+<br>
+ 
+**P.S.** Si tu cherches quelqu'un qui nomme ses branches `feat/bim-bam-boum`
+et parle de ses routes comme de personnages secondaires, on devrait discuter. 🌙
+ 
+**P.P.S.** Je ne travaille pas à distance. Je *vis* à distance. Nuance importante.
+ 
+```
+⚙ ◈ ✦ ◈ ⚙ ◈ ✦ ◈ ⚙ ◈ ✦ ◈ ⚙ ◈ ✦ ◈ ⚙
+```
+ 
 </div>
