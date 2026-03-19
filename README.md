@@ -1,217 +1,151 @@
 <div align="center">
-
 # ✨ Laure Lavie ✨
-### 🌙 Créatrice & coordinatrice de technologies pour storytellers en devenir 🌙
+### 🌙 Fabricante d'outils pour les raconteurs d'histoires qui s'ignorent encore 🌙
 
-*Je construis les outils que j'aurais rêvé avoir quand j'écrivais mes 3 livres.*  
-*Ils dorment toujours dans un tiroir. Les outils, eux, sont en prod.*
+*Je code aujourd'hui les choses que j'aurais rêvé trouver il y a trois ans, quand mes trois romans prenaient la poussière dans un tiroir.  
+Les livres y sont toujours. Le code, lui, compile (parfois).*
 
 [![GitHub](https://img.shields.io/badge/GitHub-B38839?style=for-the-badge&logo=github&logoColor=EBEBEB)](https://github.com/LaureLavie)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-6B4E9A?style=for-the-badge&logo=linkedin&logoColor=EBEBEB)](https://www.linkedin.com/in/laurelavie/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-130F3B?style=for-the-badge&logo=react&logoColor=B38839)](https://porfolio-lorlavie.onrender.com/accueil)
-
 </div>
 
 ---
 
-## 🎭 Qui suis-je (question philosophique, réponse pragmatique)
+## 🎭 Qui suis-je (version non-fiction)
 
-**Réponse courte :** Designer. Auteure. Développeuse.  
-*Dans un ordre qui varie selon l'heure, la caféine, et l'humeur de mon terminal.*
+**Réponse acceptable en société :** Designer. Auteure. Développeuse fullstack en herbe.  
+**Réponse honnête :** Une ancienne créative textile qui a décidé un matin que le HTML était moins intimidant qu’un patron de couture mal plié.
 
-**Réponse longue :**
+Avril 2025 → certification développeur web obtenue (le HTML n’a pas ri au nez de mes marges).  
+Depuis septembre 2025 → formation **CDA spécialisée IA** à la Fabrique Numérique Paloise : Next.js, Python, FastAPI… et moi qui prends encore le thé pour me calmer après un 500.
 
-Il y a encore peu, le code était pour moi une langue morte — précise, austère, et visiblement hostile aux romantiques. Puis avril 2025 est arrivé, et j'ai décidé, avec la témérité tranquille de quelqu'un qui n'a pas encore rencontré un `TypeError` à 23h, de suivre une formation de développeuse web.
+**Mon parcours en trois actes tragico-comiques :**
 
-**J'ai eu ma certif.** Le HTML n'est pas mort de honte. C'est un premier pas.
+- 🧵 **Acte I** — Textile, illustration, design graphique, auto-entrepreneuriat (j’ai excellé dans la partie « création », beaucoup moins dans « envoi de devis »)  
+- ✍️ **Acte II** — Trois romans achevés. Tirage actuel : exemplaire unique disponible dans le meuble bas de la chambre. Critiques élogieuses de mon chat.  
+- 💻 **Acte III** — J’ai appris à coder pour arrêter d’attendre que quelqu’un d’autre réalise mes idées farfelues. Résultat : je réalise maintenant mes propres farfelus.
 
-Depuis septembre 2025, je suis en formation **CDA spécialisée IA** à la Fabrique Numérique Paloise — où j'apprends Next.js et Python avec l'application méticuleuse d'un personnage de roman du XIXe siècle qui découvrirait la vapeur : enthousiaste en théorie, légèrement dépassée en pratique, mais absolument convaincue que ça va marcher.
-
-**Mon parcours en 3 actes :**
-
-- 🧵 **Acte I :** Textile, illustration, design graphique, auto-entrepreneuriat.  
-  *(Toutes les compétences sauf celle de facturer correctement.)*
-- ✍️ **Acte II :** Trois livres rédigés avec soin, passion, et une totale discrétion éditoriale.  
-  *(Édition ultra-confidentielle. Tirage : 0. Lectorat : moi, et peut-être mon tiroir.)*
-- 💻 **Acte III :** J'apprends à coder. Non par vocation soudaine, mais parce que j'attendais que quelqu'un construise mes idées à ma place — et cette personne n'est manifestement jamais venue.
-
-> **Note architecturale :** *Je fonctionne en mode microservices — je communique via API, traite mes requêtes en isolation, et préfère ne pas déployer en production un vendredi soir. C'est de la sagesse, pas de la timidité.*
+> Fonctionnement interne : microservices humains.  
+> Communication asynchrone via mail / Notion, traitement isolé des tâches, déploiement prudent (jamais le vendredi après 16h).
 
 ---
 
-## 🌊 Ce que je construis
+## 🌊 Ce que je construis (quand les bugs me laissent cinq minutes de répit)
 
-### **Immers'Write** — *ma vision, mon chantier, mon obsession raisonnée*
+### **Immers'Write** — l’enfant turbulent que j’élève actuellement
 
-> Une plateforme pour les auteurs qui refusent que leurs univers n'existent que sur une page Word grise et sans âme.  
-> Texte + Images IA + Sons IA = Le lecteur ne lit plus. Il **traverse.**
+Plateforme d’écriture et de lecture immersive dopée à l’IA.  
+Texte + images générées + voix synthétiques = le lecteur ne lit plus, il **entre dans le décor**.
 
-Si Medium et DALL-E avaient eu un enfant élevé dans une bibliothèque gothique à la lueur de bougies qui sentent la cire et l'ambition, ce serait à peu près ça.
+Stack en cours d’apprivoisement :  
+Next.js • TypeScript • FastAPI • PostgreSQL • IA générative (Claude, OpenAI, ElevenLabs…)
 
-```
-Stack actuelle    : Next.js (apprivoisé) • FastAPI (en cours de négociation)
-                    • PostgreSQL (on se tutoie, prudemment)
-                    • IA générative (collègue de confiance, jamais en RTT)
+Vision : profondeur narrative > viralité  
+émotions durables > scroll infini  
+immersion sensorielle > like farming
 
-Vision            : La profondeur, pas la viralité.
-                    Les émotions, pas les métriques.
-                    L'immersion, pas le scroll infini.
-
-Lancement alpha   : Juin 2026 — sauf imprévu majeur, ce qui en développement
-                    est techniquement synonyme de "toujours possible".
-```
+Lancement alpha espéré : juin 2026  
+(la date est ambitieuse, comme moi quand je commence un sprint à 22h47)
 
 <div align="center">
-
-[![Blog](https://img.shields.io/badge/📖_Blog-Suivre_l'aventure_(joies_et_stack_traces)-B38839?style=for-the-badge&logoColor=EBEBEB)](https://immerswrite.blogspot.com)
-[![Projet](https://img.shields.io/badge/🌙_Projet-Découvrir_(sans_engagement)-6B4E9A?style=for-the-badge&logoColor=EBEBEB)](https://immerswrite.carrd.co)
-
+[![Blog](https://img.shields.io/badge/📖_Blog-Journal_de_bord_(joies_&_stack_traces)-B38839?style=for-the-badge&logoColor=EBEBEB)](https://immerswrite.blogspot.com)
+[![Projet](https://img.shields.io/badge/🌙_Projet-Découvrir_(patience_requise)-6B4E9A?style=for-the-badge&logoColor=EBEBEB)](https://immerswrite.carrd.co)
 </div>
 
 ---
 
-## 🗂️ Quelques traces de mon passage sur GitHub
+## 🗂️ Petit florilège de mes repositories (mes bébés numériques classés par degré de chaos)
 
-*Parce qu'un profil sans repos, c'est une bibliothèque sans livres — ce qui, dans mon cas, est d'autant plus ironique.*
+- **ImmersWrite** → le grand projet, celui qui me fait des frayeurs nocturnes et des petites joies diurnes  
+- **Studio-IA** → expériences autour de l’IA (parce qu’un seul chantier ne suffit visiblement pas)  
+- **Project_CalcUnicorn** → une calculatrice. Mais avec du style. Les maths méritent des paillettes.  
+- **Quete_des_Gueux** → un jeu. Le titre est plus épique que le code, mais l’intention y est.  
+- **Liste_a_tout_faire** → todo-list classique. Elle liste mes tâches. Elle ne les fait pas à ma place (dommage).  
+- **Digital_Time** → horloge digitale. Le temps passe. Mon CSS aussi, lentement.  
+- **gite_Lorlavie** → mon projet de certification. Sobre. Fonctionnel. Presque adulte.
 
-| Projet | Ce que c'est (vraiment) |
-|:---|:---|
-| 🦄 **Project_CalcUnicorn** | Une calculatrice. Mais élégante. Parce que les maths méritent mieux. |
-| 📜 **Quot_x_files** | Des citations des X-Files. La vérité est quelque part dans le DOM. |
-| ⚔️ **Quete_des_Gueux** | Un jeu. Le titre promet une épopée. Le code tient ses promesses. |
-| ✅ **Liste_a_tout_faire** | Une todo-list. Elle recense mes tâches. Elle ne les accomplit pas à ma place. |
-| 🏡 **gite_Lorlavie** | Mon projet de certification. Sobre, fonctionnel, et fièrement en production. |
-| 🕰️ **Digital_Time** | Une horloge digitale. Le temps passe. Le CSS, parfois, aussi. |
-
-*Badge obtenu en chemin :* `YOLO` — accordé par GitHub pour un merge direct sur main. *Je n'ai aucun commentaire à faire là-dessus.*
+*(Il y en a d’autres plus discrets ou plus récents. Ils attendent tous leur moment de gloire… ou leur enterrement discret.)*
 
 ---
 
-## 🛠️ L'arsenal
+## 🛠️ Mon atelier actuel (niveau : sorcière junior qui confond encore parfois potion et poison)
 
 <div align="center">
 
-### 💻 Code *(niveau : apprentie sorcière en deuxième année de grimoire)*
-
+**Frontend & amours numériques**  
 ![React](https://img.shields.io/badge/React-130F3B?style=for-the-badge&logo=react&logoColor=B38839)
 ![Next.js](https://img.shields.io/badge/Next.js-EBEBEB?style=for-the-badge&logo=next.js&logoColor=130F3B)
-![JavaScript](https://img.shields.io/badge/JavaScript-B38839?style=for-the-badge&logo=javascript&logoColor=130F3B)
-![Python](https://img.shields.io/badge/Python-6B4E9A?style=for-the-badge&logo=python&logoColor=EBEBEB)
-![HTML5](https://img.shields.io/badge/HTML5-5C4A52?style=for-the-badge&logo=html5&logoColor=EBEBEB)
-![CSS3](https://img.shields.io/badge/CSS3-130F3B?style=for-the-badge&logo=css3&logoColor=B38839)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind-6B4E9A?style=for-the-badge&logo=tailwind-css&logoColor=EBEBEB)
 
-### 🏗️ Infrastructure *(oui, je sais ce que ça veut dire. Maintenant.)*
-
+**Backend & infrastructure (je commence à comprendre pourquoi on pleure)**  
 ![FastAPI](https://img.shields.io/badge/FastAPI-B38839?style=for-the-badge&logo=fastapi&logoColor=130F3B)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-130F3B?style=for-the-badge&logo=postgresql&logoColor=EBEBEB)
-![Git](https://img.shields.io/badge/Git-5C4A52?style=for-the-badge&logo=git&logoColor=EBEBEB)
-![VS Code](https://img.shields.io/badge/VS_Code-6B4E9A?style=for-the-badge&logo=visual-studio-code&logoColor=EBEBEB)
 
-### 🤖 IA *(mes collaborateurs les plus patients — et de loin)*
-
+**IA (mes collègues les plus patients)**  
 ![Claude](https://img.shields.io/badge/Anthropic_Claude-130F3B?style=for-the-badge&logo=anthropic&logoColor=B38839)
 ![OpenAI](https://img.shields.io/badge/OpenAI-6B4E9A?style=for-the-badge&logo=openai&logoColor=EBEBEB)
 ![ElevenLabs](https://img.shields.io/badge/ElevenLabs-B38839?style=for-the-badge&logoColor=130F3B)
 
-### 🎨 Design & Création *(mon territoire d'origine — je connais le terrain)*
-
+**Mes racines créatives (je n’ai pas tout oublié)**  
 ![Figma](https://img.shields.io/badge/Figma-B38839?style=for-the-badge&logo=figma&logoColor=130F3B)
-![Illustrator](https://img.shields.io/badge/Illustrator-5C4A52?style=for-the-badge&logo=adobe-illustrator&logoColor=EBEBEB)
-![InDesign](https://img.shields.io/badge/InDesign-130F3B?style=for-the-badge&logo=adobe-indesign&logoColor=B38839)
 ![Photoshop](https://img.shields.io/badge/Photoshop-6B4E9A?style=for-the-badge&logo=adobe-photoshop&logoColor=EBEBEB)
 
 </div>
 
 ---
 
-## ✨ Ce que j'apporte (ou : pourquoi la reconversion a du bon)
+## ✨ Ce que j’apporte (ou pourquoi on pourrait s’entendre)
 
-Je ne suis pas une développeuse qui *fait semblant* de comprendre les créatifs.  
-Je suis une créative qui a appris à coder — par nécessité d'abord, par passion ensuite, et par entêtement tout du long.
+Je ne suis **pas** une développeuse qui fait semblant d’aimer les métaphores.  
+Je suis une créative qui a appris à coder parce qu’elle en avait **marre** d’attendre.
 
-**Au code, j'apporte :**
-- 📖 Le sens du récit — parce qu'une fonction bien nommée, c'est déjà une histoire
-- 👁️ L'œil — si l'interface est laide, je le dis. Avec tact. Mais je le dis.
-- 💎 Le soin — mes commits ont des émojis et une âme. Ce n'est pas négociable.
+Au code j’apporte :  
+- une obsession pour la narration (même une fonction peut avoir une âme)  
+- un radar à laideur visuelle (je le dis gentiment… enfin presque)  
+- des commits qui racontent une histoire (✨ lune + licorne = commit valide)
 
-**À la création, j'apporte :**
-- 🧠 La rigueur — le chaos créatif est bienvenu, mais il mérite un plan de secours
-- 🏗️ La structure — l'architecture narrative et l'architecture logicielle ont plus en commun qu'on ne croit
-- ✅ Le réalisme — j'ai appris, non sans douleur, à distinguer la vision du sprint
+À la création j’apporte :  
+- un minimum de structure (le chaos créatif a besoin d’un plan B)  
+- la conscience qu’un beau design ne doit pas tuer les perfs  
+- la capacité à dire « on va peut-être simplifier cette feature de 47 étapes »
 
-> *L'outil doit libérer l'artiste — jamais le rendre tributaire.*  
-> *(C'est mon mantra. Je l'ai aussi envisagé en broderie, mais le projet est en backlog.)*
-
----
-
-## 🎢 La ligne du temps *(version condensée, sans les nuits blanches)*
-
-```
-2020 – 2025  →  Auto-entrepreneuse créative : textile, illustration, design.
-                 Ce que j'ai appris : créer avec passion.
-                 Ce que j'ai moins appris : facturer avec méthode.
-
-Avril 2025   →  Formation Développeuse Web. Certification obtenue.
-                 Révélation : le HTML n'est pas ésotérique.
-                 Il est juste très littéral.
-
-Sept. 2025   →  Formation CDA spécialisée IA — Fabrique Numérique Paloise.
-                 Python et moi : une relation en cours de construction.
-                 Respectueuse. Prudente. Pas encore chaleureuse.
-
-En parallèle →  Auteure (3 livres. Tiroir du bas. Pas d'éditeur. Beaucoup d'espoir.)
-                 Compositrice (bandes-son pour des mondes imaginaires)
-                 Bâtisseuse de mondes (avec l'IA comme maître d'œuvre)
-                 Collectionneuse de stack traces (involontairement)
-```
-
-**En résumé :** Du fil au code. Le geste change. La matière change. L'intention, jamais.
+> Mantra n°1 : l’outil doit **libérer** l’artiste, jamais le kidnapper.  
+> (Je l’ai brodé sur un marque-page. Il est très beau et très inutile.)
 
 ---
 
-## 🎯 En quelques vérités
+## 🎯 Vérités d’état civil professionnel
 
-✅ Je suis sérieuse — quand la situation l'exige  
-✅ Je suis rigoureuse — mes nuits blanches en témoignent volontiers  
-✅ Je suis autodidacte — avec une IA de confiance comme bibliothèque de référence  
-✅ J'ai le sens de l'humour — compétence indispensable face à une erreur 500 à 23h45  
-✅ Je suis ouverte d'esprit — à peu près sur tout, sauf sur l'indentation  
-
-❌ Je ne pratique pas les commits minimalistes — `"fix"` n'est pas un message de commit, c'est un aveu d'échec. `"✨ réconciliation pacifique avec le formulaire de contact"`, en revanche, raconte quelque chose.  
-❌ Je ne me prends pas au sérieux — mon code, lui, si. La nuance est importante.
+✅ Sérieuse (quand le commit est en danger)  
+✅ Travailleuse (mes nuits blanches ont des noms propres)  
+✅ Autodidacte (merci Claude, OpenAI, et 4000 tabs ouverts)  
+✅ Humoriste patentée (indispensable face aux erreurs mystiques)  
+❌ Indulgente avec les commits « fix » → c’est un crime poétique  
+❌ Fan de l’auto-dérision modérée (je me moque de moi avant que tu le fasses)
 
 ---
 
-## 📬 Me trouver
+## 📬 Où me croiser (si la curiosité l’emporte)
 
 <div align="center">
 
-| | |
-|:---:|:---|
 | ✉️ | lorlavie@gmail.com |
-| 🌙 | [immerswrite.com](https://immerswrite.com) |
+|---|----|
+| 🌙 | [immerswrite.com](https://immerswrite.com) (le rêve en construction) |
+| 📖 | [immerswrite.blogspot.com](https://immerswrite.blogspot.com) (journal de bugs & petites victoires) |
 | 💼 | [linkedin.com/in/laurelavie](https://www.linkedin.com/in/laurelavie/) |
-| 📖 | [immerswrite.blogspot.com](https://immerswrite.blogspot.com) *(journal de bord : bugs, doutes et petites victoires)* |
-| 🌟 | [facebook.com/immerswrite](https://www.facebook.com/immerswrite) *(oui, Facebook existe encore. Je fais ce que je peux.)* |
+| 🌟 | [facebook.com/immerswrite](https://www.facebook.com/immerswrite) (oui, j’y suis encore) |
 
 </div>
 
----
-
 <div align="center">
-
 ![Visitors](https://komarev.com/ghpvc/?username=LaureLavie&color=B38839&style=for-the-badge&label=passages_nocturnes&labelColor=130F3B)
 
-### ✨ *Where words become worlds.* ✨
-*Et où les bugs deviennent des features — pour peu qu'on les documente avec assez de conviction.*
+### ✨ *Where words become worlds.* ✨  
+*(Et où les bugs deviennent des anecdotes… si on survit assez longtemps pour les raconter.)*
 
----
-
-**PS :** Si tu cherches une développeuse qui commit avec des émojis de lune et parle de ses routes API comme de personnages secondaires, tu es au bon endroit. 🌙
-
-**PPS :** Je ne travaille pas à distance. Je **vis** à distance. La distinction est réelle, et j'y tiens.
-
-**PPPS :** La vérité est quelque part dans le DOM. Elle a toujours été là.
-
+**P.S.** Si tu cherches quelqu’un qui nomme ses branches `feat/lune-et-velours` et qui parle de ses routes comme de personnages secondaires, on devrait discuter. 🌙  
+**P.P.S.** Je ne travaille pas à distance. Je **vis** à distance. Nuance importante.
 </div>
