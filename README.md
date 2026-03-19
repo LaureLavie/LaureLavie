@@ -1,151 +1,156 @@
 <div align="center">
-# ✨ Laure Lavie ✨
-### 🌙 Fabricante d'outils pour les raconteurs d'histoires qui s'ignorent encore 🌙
+  <h1>✦ Laure Lavie ✦</h1>
+  <h3>🌙 Architecte d'immersions & couturière de code pour âmes narratives 🌙</h3>
+  <p><em>Je fabrique les machines à rêves que j'attendais adolescente, quand mes histoires s'endormaient dans des tiroirs capitonnés de velours.</em></p>
 
-*Je code aujourd'hui les choses que j'aurais rêvé trouver il y a trois ans, quand mes trois romans prenaient la poussière dans un tiroir.  
-Les livres y sont toujours. Le code, lui, compile (parfois).*
+  <img src="https://img.shields.io/badge/Commits%20avec%20%C3%A2me-B38839?style=for-the-badge&logoColor=130F3B" alt="commits avec âme">
+  <br><br>
 
-[![GitHub](https://img.shields.io/badge/GitHub-B38839?style=for-the-badge&logo=github&logoColor=EBEBEB)](https://github.com/LaureLavie)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-6B4E9A?style=for-the-badge&logo=linkedin&logoColor=EBEBEB)](https://www.linkedin.com/in/laurelavie/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-130F3B?style=for-the-badge&logo=react&logoColor=B38839)](https://porfolio-lorlavie.onrender.com/accueil)
+  [![GitHub](https://img.shields.io/badge/GitHub-130F3B?style=for-the-badge&logo=github&logoColor=B38839)](https://github.com/LaureLavie)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-6B4E9A?style=for-the-badge&logo=linkedin&logoColor=EBEBEB)](https://www.linkedin.com/in/laurelavie/)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-EBEBEB?style=for-the-badge&logo=react&logoColor=130F3B)](https://porfolio-lorlavie.onrender.com/accueil)
 </div>
 
 ---
 
-## 🎭 Qui suis-je (version non-fiction)
+### Qui je suis (version augmentée 2026)
 
-**Réponse acceptable en société :** Designer. Auteure. Développeuse fullstack en herbe.  
-**Réponse honnête :** Une ancienne créative textile qui a décidé un matin que le HTML était moins intimidant qu’un patron de couture mal plié.
+**En trois mots :** Créative. Auteure. Codeuse (depuis que le HTML a cessé de me snober).  
+**En une phrase :** Ancienne couturière d'histoires & d'étoffes, reconvertie en apprentie sorcière du full-stack qui parle aux API comme à des personnages secondaires un peu lunaires.
 
-Avril 2025 → certification développeur web obtenue (le HTML n’a pas ri au nez de mes marges).  
-Depuis septembre 2025 → formation **CDA spécialisée IA** à la Fabrique Numérique Paloise : Next.js, Python, FastAPI… et moi qui prends encore le thé pour me calmer après un 500.
+**Mon arc narratif en trois actes (et demi) :**
 
-**Mon parcours en trois actes tragico-comiques :**
+1. **Acte I – Le fil & l'encre**  
+   Textile, illustration, design graphique, auto-entrepreneuriat.  
+   *J'ai appris à créer. Pas encore à facturer. C'est en backlog prioritaire depuis 2018.*
 
-- 🧵 **Acte I** — Textile, illustration, design graphique, auto-entrepreneuriat (j’ai excellé dans la partie « création », beaucoup moins dans « envoi de devis »)  
-- ✍️ **Acte II** — Trois romans achevés. Tirage actuel : exemplaire unique disponible dans le meuble bas de la chambre. Critiques élogieuses de mon chat.  
-- 💻 **Acte III** — J’ai appris à coder pour arrêter d’attendre que quelqu’un d’autre réalise mes idées farfelues. Résultat : je réalise maintenant mes propres farfelus.
+2. **Acte II – Les mondes papier**  
+   Trois romans écrits avec soin, passion… et une discrétion éditoriale quasi victorienne.  
+   *Tirage actuel : exemplaire unique + droits de lecture exclusifs accordés à un chat très critique.*
 
-> Fonctionnement interne : microservices humains.  
-> Communication asynchrone via mail / Notion, traitement isolé des tâches, déploiement prudent (jamais le vendredi après 16h).
+3. **Acte III – La vapeur numérique**  
+   Avril 2025 : certification développeuse web (le HTML a survécu).  
+   Septembre 2025 → aujourd'hui : formation **CDA spécialisée IA** – Fabrique Numérique Paloise.  
+   *Next.js et moi entretenons une relation complexe mais respectueuse. Python me tutoie avec prudence.*
+
+**Note existentielle :** Je code comme j’écris : lentement, avec émojis de lune, et une saine terreur des vendredis soir en prod.
 
 ---
 
-## 🌊 Ce que je construis (quand les bugs me laissent cinq minutes de répit)
+### Projet phare – Immers’Write 🕯️
 
-### **Immers'Write** — l’enfant turbulent que j’élève actuellement
+> Une plateforme où le texte ne se contente plus d’être lu : il **enveloppe**, il **chuchote**, il **respire**.  
+> Texte + Images IA + Voix IA = le lecteur ne tourne plus les pages. Il **traverse** le voile.
 
-Plateforme d’écriture et de lecture immersive dopée à l’IA.  
-Texte + images générées + voix synthétiques = le lecteur ne lit plus, il **entre dans le décor**.
+**Stack actuelle (2026 – édition “on tient le coup”) :**  
+Next.js (apprivoisé) • FastAPI (négociations avancées)  
+PostgreSQL (relation stable, on se dispute rarement)  
+IA générative (partenaire le plus fiable – jamais en burn-out)
 
-Stack en cours d’apprivoisement :  
-Next.js • TypeScript • FastAPI • PostgreSQL • IA générative (Claude, OpenAI, ElevenLabs…)
+**Philosophie de conception :**  
+Profondeur > viralité  
+Émotions > métriques  
+Immersion > scroll infini
 
-Vision : profondeur narrative > viralité  
-émotions durables > scroll infini  
-immersion sensorielle > like farming
-
-Lancement alpha espéré : juin 2026  
-(la date est ambitieuse, comme moi quand je commence un sprint à 22h47)
+**Roadmap approximative :** Alpha – Juin 2026 (sauf si un bug cosmique décide autrement – probabilité non nulle).
 
 <div align="center">
-[![Blog](https://img.shields.io/badge/📖_Blog-Journal_de_bord_(joies_&_stack_traces)-B38839?style=for-the-badge&logoColor=EBEBEB)](https://immerswrite.blogspot.com)
-[![Projet](https://img.shields.io/badge/🌙_Projet-Découvrir_(patience_requise)-6B4E9A?style=for-the-badge&logoColor=EBEBEB)](https://immerswrite.carrd.co)
+  <a href="https://immerswrite.blogspot.com"><img src="https://img.shields.io/badge/📜_Journal_de_bord-B38839?style=for-the-badge&logoColor=130F3B" alt="Blog"></a>
+  <a href="https://immerswrite.carrd.co"><img src="https://img.shields.io/badge/🌑_Découvrir_sans_engagement-6B4E9A?style=for-the-badge&logoColor=EBEBEB" alt="Projet"></a>
 </div>
 
 ---
 
-## 🗂️ Petit florilège de mes repositories (mes bébés numériques classés par degré de chaos)
+### Petit musée de mes curiosités numériques
 
-- **ImmersWrite** → le grand projet, celui qui me fait des frayeurs nocturnes et des petites joies diurnes  
-- **Studio-IA** → expériences autour de l’IA (parce qu’un seul chantier ne suffit visiblement pas)  
-- **Project_CalcUnicorn** → une calculatrice. Mais avec du style. Les maths méritent des paillettes.  
-- **Quete_des_Gueux** → un jeu. Le titre est plus épique que le code, mais l’intention y est.  
-- **Liste_a_tout_faire** → todo-list classique. Elle liste mes tâches. Elle ne les fait pas à ma place (dommage).  
-- **Digital_Time** → horloge digitale. Le temps passe. Mon CSS aussi, lentement.  
-- **gite_Lorlavie** → mon projet de certification. Sobre. Fonctionnel. Presque adulte.
+| Symbole | Nom du repository                  | Véritable nature                              |
+|---------|------------------------------------|-----------------------------------------------|
+| 🦄      | Project_CalcUnicorn               | Calculatrice qui refuse d’être banale         |
+| 📜      | Quot_x_files                      | La vérité est quelque part… dans le DOM       |
+| ⚔️      | Quete_des_Gueux                   | Épopée low-poly promise, délivrée             |
+| ✅      | Liste_a_tout_faire                | Todo-list honnête (ne fait rien à ma place)   |
+| 🏡      | gite_Lorlavie                     | Certification – sobre, efficace, déployée     |
+| 🕰️      | Digital_Time                      | Horloge. Le CSS vieillit avec élégance        |
 
-*(Il y en a d’autres plus discrets ou plus récents. Ils attendent tous leur moment de gloire… ou leur enterrement discret.)*
+**Distinction honorifique :** Merge direct sur main – badge YOLO non sollicité, mais accepté avec dignité.
 
 ---
 
-## 🛠️ Mon atelier actuel (niveau : sorcière junior qui confond encore parfois potion et poison)
+### Atelier & outillage (inventaire 2026)
 
 <div align="center">
 
-**Frontend & amours numériques**  
-![React](https://img.shields.io/badge/React-130F3B?style=for-the-badge&logo=react&logoColor=B38839)
-![Next.js](https://img.shields.io/badge/Next.js-EBEBEB?style=for-the-badge&logo=next.js&logoColor=130F3B)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-6B4E9A?style=for-the-badge&logo=tailwind-css&logoColor=EBEBEB)
+**Langages & frameworks**  
+![Next.js](https://img.shields.io/badge/Next.js-130F3B?style=for-the-badge&logo=nextdotjs&logoColor=B38839)
+![React](https://img.shields.io/badge/React-EBEBEB?style=for-the-badge&logo=react&logoColor=130F3B)
+![Python](https://img.shields.io/badge/Python-6B4E9A?style=for-the-badge&logo=python&logoColor=EBEBEB)
+![Tailwind](https://img.shields.io/badge/Tailwind-130F3B?style=for-the-badge&logo=tailwindcss&logoColor=B38839)
 
-**Backend & infrastructure (je commence à comprendre pourquoi on pleure)**  
+**Backend & données**  
 ![FastAPI](https://img.shields.io/badge/FastAPI-B38839?style=for-the-badge&logo=fastapi&logoColor=130F3B)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-130F3B?style=for-the-badge&logo=postgresql&logoColor=EBEBEB)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-EBEBEB?style=for-the-badge&logo=postgresql&logoColor=130F3B)
 
-**IA (mes collègues les plus patients)**  
-![Claude](https://img.shields.io/badge/Anthropic_Claude-130F3B?style=for-the-badge&logo=anthropic&logoColor=B38839)
-![OpenAI](https://img.shields.io/badge/OpenAI-6B4E9A?style=for-the-badge&logo=openai&logoColor=EBEBEB)
+**IA & création**  
+![Claude](https://img.shields.io/badge/Claude-6B4E9A?style=for-the-badge&logo=anthropic&logoColor=EBEBEB)
+![OpenAI](https://img.shields.io/badge/OpenAI-130F3B?style=for-the-badge&logo=openai&logoColor=B38839)
 ![ElevenLabs](https://img.shields.io/badge/ElevenLabs-B38839?style=for-the-badge&logoColor=130F3B)
 
-**Mes racines créatives (je n’ai pas tout oublié)**  
-![Figma](https://img.shields.io/badge/Figma-B38839?style=for-the-badge&logo=figma&logoColor=130F3B)
+**Racines esthétiques**  
+![Figma](https://img.shields.io/badge/Figma-EBEBEB?style=for-the-badge&logo=figma&logoColor=130F3B)
 ![Photoshop](https://img.shields.io/badge/Photoshop-6B4E9A?style=for-the-badge&logo=adobe-photoshop&logoColor=EBEBEB)
 
 </div>
 
 ---
 
-## ✨ Ce que j’apporte (ou pourquoi on pourrait s’entendre)
+### Ce que j’apporte à l’équation (sans fausse modestie ni excès)
 
-Je ne suis **pas** une développeuse qui fait semblant d’aimer les métaphores.  
-Je suis une créative qui a appris à coder parce qu’elle en avait **marre** d’attendre.
+- Une plume qui nomme les variables comme des personnages  
+- Un œil qui hurle (poliment) quand l’UI fait mal  
+- Des commits qui racontent une micro-histoire  
+- La conviction tenace que l’outil doit **libérer** l’artiste, jamais l’enchaîner
 
-Au code j’apporte :  
-- une obsession pour la narration (même une fonction peut avoir une âme)  
-- un radar à laideur visuelle (je le dis gentiment… enfin presque)  
-- des commits qui racontent une histoire (✨ lune + licorne = commit valide)
-
-À la création j’apporte :  
-- un minimum de structure (le chaos créatif a besoin d’un plan B)  
-- la conscience qu’un beau design ne doit pas tuer les perfs  
-- la capacité à dire « on va peut-être simplifier cette feature de 47 étapes »
-
-> Mantra n°1 : l’outil doit **libérer** l’artiste, jamais le kidnapper.  
-> (Je l’ai brodé sur un marque-page. Il est très beau et très inutile.)
+> *« Le code est une langue. J’ai simplement ajouté des accents circonflexes et des phases de lune. »*
 
 ---
 
-## 🎯 Vérités d’état civil professionnel
+### Ligne du temps (version sans filtre)
 
-✅ Sérieuse (quand le commit est en danger)  
-✅ Travailleuse (mes nuits blanches ont des noms propres)  
-✅ Autodidacte (merci Claude, OpenAI, et 4000 tabs ouverts)  
-✅ Humoriste patentée (indispensable face aux erreurs mystiques)  
-❌ Indulgente avec les commits « fix » → c’est un crime poétique  
-❌ Fan de l’auto-dérision modérée (je me moque de moi avant que tu le fasses)
+- **~2020–2025** : Création manuelle (tissu, dessin, mots). Passion débordante, facturation timide.  
+- **Avril 2025** : Certification web dev. Le HTML respire enfin.  
+- **Sept. 2025 → …** : CDA IA – apprivoisement de Python, séduction patiente de Next.js.  
+- **Parallèle permanent** : Écriture romanesque confidentielle + composition musicale d’ambiances + collecte involontaire de stack traces.
+
+**Devise officieuse :** Du fil au flux. L’intention reste la même.
 
 ---
 
-## 📬 Où me croiser (si la curiosité l’emporte)
+### Vérités non négociables
+
+✅ Sérieuse (quand obligatoire)  
+✅ Rigoureuse (mes nuits en témoignent)  
+✅ Humoristique niveau 500 (erreur interne comprise)  
+✅ Indentation sacrée  
+❌ Messages de commit minimalistes (« fix » = aveu de faiblesse)  
+❌ Autosuffisance en café après 22h (mensonge éhonté)
+
+---
 
 <div align="center">
 
-| ✉️ | lorlavie@gmail.com |
-|---|----|
-| 🌙 | [immerswrite.com](https://immerswrite.com) (le rêve en construction) |
-| 📖 | [immerswrite.blogspot.com](https://immerswrite.blogspot.com) (journal de bugs & petites victoires) |
-| 💼 | [linkedin.com/in/laurelavie](https://www.linkedin.com/in/laurelavie/) |
-| 🌟 | [facebook.com/immerswrite](https://www.facebook.com/immerswrite) (oui, j’y suis encore) |
+### 📬 Antenne réceptrice
 
-</div>
+✉️ lorlavie@gmail.com  
+🌙 [immerswrite.com](https://immerswrite.com)  
+📖 [immerswrite.blogspot.com](https://immerswrite.blogspot.com) – chroniques de bugs & d’espoirs  
+💼 [LinkedIn](https://www.linkedin.com/in/laurelavie/)  
+🌑 [immerswrite.carrd.co](https://immerswrite.carrd.co)
 
-<div align="center">
-![Visitors](https://komarev.com/ghpvc/?username=LaureLavie&color=B38839&style=for-the-badge&label=passages_nocturnes&labelColor=130F3B)
+<br>
 
-### ✨ *Where words become worlds.* ✨  
-*(Et où les bugs deviennent des anecdotes… si on survit assez longtemps pour les raconter.)*
+![Visitor Badge](https://komarev.com/ghpvc/?username=LaureLavie&color=B38839&style=for-the-badge&label=âmes%20de%20passage&labelColor=130F3B)
 
-**P.S.** Si tu cherches quelqu’un qui nomme ses branches `feat/lune-et-velours` et qui parle de ses routes comme de personnages secondaires, on devrait discuter. 🌙  
-**P.P.S.** Je ne travaille pas à distance. Je **vis** à distance. Nuance importante.
+**Where words weave worlds…**  
+**…and bugs become atmospheric details (si bien documentés).** 🌙
+
 </div>
