@@ -1,5 +1,5 @@
 <div align="center">
-  ```
+```
 ⚙ ◈ ✦ ◈ ⚙ ◈ ✦ ◈ ⚙ ◈ ✦ ◈ ⚙ ◈ ✦ ◈ ⚙
 ```
  
@@ -10,32 +10,36 @@
 ```
   <h3>🌙 Architecte d'immersions & couturière de code pour âmes narratives 🌙</h3>
   <p><em>Je code aujourd'hui les choses que j'aurais rêvé trouver il y a trois ans, quand mes trois romans prenaient la poussière dans un tiroir. Les livres y sont toujours. Le code, lui, compile (parfois).</em></p>
-
+---
   <img src="https://img.shields.io/badge/Commits%20avec%20%C3%A2me-B38839?style=for-the-badge&logoColor=130F3B" alt="commits avec âme">
   <br><br>
 
   [![GitHub](https://img.shields.io/badge/GitHub-130F3B?style=for-the-badge&logo=github&logoColor=B38839)](https://github.com/LaureLavie)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-6B4E9A?style=for-the-badge&logo=linkedin&logoColor=EBEBEB)](https://www.linkedin.com/in/laurelavie/)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-EBEBEB?style=for-the-badge&logo=react&logoColor=130F3B)](https://porfolio-lorlavie.onrender.com/accueil)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-6B4E9A?style=for-the-badge&logo=linkedin&logoColor=EBEBEB)](https://www.linkedin.com/in/immerswrite/)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-EBEBEB?style=for-the-badge&logo=react&logoColor=130F3B)](https://porfolio-lorlavie.onrender.com)
 </div>
 
 ---
 <br>
- 
+<div align="center">
 ```
-▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
    ◈  QUI SUIS-JE                                                         ⚙
-▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
 ```
+</div>
+
+Bonne question. J'ai plusieurs réponses selon le contexte.
  
-**Version acceptable en société :** Designer. Auteure. Développeuse fullstack en herbe.
+**En société :** Designer. Auteure. Développeuse fullstack en cours d'assemblage.
+**Honnêtement :** Une ancienne créative textile qui a décidé un matin que le HTML était probablement moins cruel qu'un patron de couture mal plié.
  
-**Version honnête :** Une ancienne créative textile qui a décidé un matin que le HTML était moins intimidant qu'un patron de couture mal plié.
+Elle avait tort. C'était trop tard.
  
 | | |
 |:---|:---|
-| `Avril 2025` | Certification développeur web obtenue — le HTML n'a pas ri au nez de mes marges. |
-| `Depuis sept. 2025` | Formation **CDA spécialisée IA** à la Fabrique Numérique Paloise : Next.js, Python, FastAPI… et le thé pour survivre aux 500. |
+| `Avril 2025` | Certification développeur web obtenue — le HTML n'a plus de grands secrets pour moi. |
+| `Depuis sept. 2025` | Formation **CDA spécialisée IA** à la Fabrique Numérique Paloise : Next.js, Python, FastAPI… et le thé pour survivre aux erreurs 500. |
  
 <br>
  
@@ -44,22 +48,17 @@
 ```
 <table>
 <tr>
-<td width="33%" align="center">
+<td width="33%" align="left">
 
-1. **Acte I – Le fil & l'encre**  
-   Textile, illustration, design graphique, auto-entrepreneuriat.  
-   *J'ai appris à créer. Pas encore à facturer. C'est en backlog prioritaire depuis 2018.*
-
-2. **Acte II – Les mondes papier**  
-   Trois romans écrits avec soin, passion… et une discrétion éditoriale incroyable.  
-   *Tirage actuel : quelques exemplaires + droits de lecture exclusifs accordés à un chat très critique.*
-
-3. **Acte III – La vapeur numérique**  
-   Avril 2025 : certification développeuse web (le HTML a survécu).  
-   Septembre 2025 → aujourd'hui : formation **CDA spécialisée IA** – Fabrique Numérique Paloise.  
-   *Next.js et moi entretenons une relation complexe mais respectueuse. Python me tutoie avec prudence.*
-
-**Note existentielle :** J'ai appris à coder pour arrêter d'attendre des outils farfelus... Je réalise maintenant mes propres farfelus.
+  
+- 🧵 **Acte I** — Textile, illustration, design graphique, auto-entrepreneuriat.
+  J'excellais dans la création. Beaucoup moins dans l'envoi des devis à temps.
+ 
+- ✍️ **Acte II** — Trois romans terminés. Tirage actuel : un exemplaire.
+  Dans le meuble bas de la chambre. Le chat les a tous lus. Il n'a rien dit.
+ 
+- 💻 **Acte III** — J'ai appris à coder pour arrêter d'attendre que quelqu'un réalise mes idées à ma place.
+  Désormais, je réalise mes propres farfelus. Efficacité discutable. Satisfaction certaine.
 
 ---
 
