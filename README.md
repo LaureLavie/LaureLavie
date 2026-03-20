@@ -5,12 +5,12 @@
  
 # ✦ LAURE LAVIE ✦
  
-```
 ⚙ ◈ ✦ ◈ ⚙ ◈ ✦ ◈ ⚙ ◈ ✦ ◈ ⚙ ◈ ✦ ◈ ⚙
+```
 ```
   <h3>🌙 Architecte d'immersions & couturière de code pour âmes narratives 🌙</h3>
   <p><em>Je code aujourd'hui les choses que j'aurais rêvé trouver il y a trois ans, quand mes trois romans prenaient la poussière dans un tiroir. Les livres y sont toujours. Le code, lui, compile (parfois).</em></p>
----
+
   <img src="https://img.shields.io/badge/Commits%20avec%20%C3%A2me-B38839?style=for-the-badge&logoColor=130F3B" alt="commits avec âme">
   <br><br>
 
@@ -19,19 +19,20 @@
   [![Portfolio](https://img.shields.io/badge/Portfolio-EBEBEB?style=for-the-badge&logo=react&logoColor=130F3B)](https://porfolio-lorlavie.onrender.com)
 </div>
 
----
+
 <br>
+
 <div align="center">
-```
-▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
-   ◈  QUI SUIS-JE                                                         ⚙
-▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
-```
+
+
+ ##  ◈  QUI SUIS-JE  ◈
+
 </div>
+
 
 Bonne question. J'ai plusieurs réponses selon le contexte.
  
-**En société :** Designer. Auteure. Développeuse fullstack en cours d'assemblage.
+**En société :** Designer. Auteure. Développeuse fullstack en cours d'assemblage.<br>
 **Honnêtement :** Une ancienne créative textile qui a décidé un matin que le HTML était probablement moins cruel qu'un patron de couture mal plié.
  
 Elle avait tort. C'était trop tard.
@@ -143,7 +144,7 @@ Immersion > scroll infini
 - Des commits qui racontent une micro-histoire  
 - La conviction tenace que l’outil doit **libérer** l’artiste, jamais l’enchaîner
 
-> *« Le code est une langue. J’ai simplement ajouté des accents circonflexes et des phases de lune. »*
+> *« Le code est une langue. J’ai simplement ajouté des strass mrveilleuses et des paillettes scintillantes. »*
 
 ---
 
@@ -152,7 +153,7 @@ Immersion > scroll infini
 - **~2020–2025** : Création manuelle (tissu, dessin, mots). Passion débordante, facturation timide.  
 - **Avril 2025** : Certification web dev. Le HTML respire enfin.  
 - **Sept. 2025 → …** : CDA IA – apprivoisement de Python, séduction patiente de Next.js.  
-- **Parallèle permanent** : Écriture romanesque confidentielle + composition musicale d’ambiances + collecte involontaire de stack traces.
+- **Parallèle permanent** : Écriture fantasy confidentielle + composition musicale d’ambiances + collecte involontaire de pages balcnhes et bugs informatiques.
 
 **Devise officieuse :** Du fil au flux. L’intention reste la même.
 
@@ -161,9 +162,9 @@ Immersion > scroll infini
 ### Vérités non négociables
 
 ✅ Sérieuse (quand obligatoire)  
-✅ Rigoureuse (mes nuits en témoignent)  
+✅ Rigoureuse (mes journées en témoignent)  
 ✅ Humoristique niveau 500 (erreur interne comprise)  
-✅ Indentation sacrée  
+✅ Je pleure devant un design mal fini  
 ❌ Messages de commit minimalistes (« fix » = aveu de faiblesse)  
 ❌ Autosuffisance en café après 22h (mensonge éhonté)
 
@@ -175,8 +176,8 @@ Immersion > scroll infini
 
 ✉️ lorlavie@gmail.com  
 🌙 [immerswrite.com](https://immerswrite.com)  
-📖 [immerswrite.blogspot.com](https://immerswrite.blogspot.com) – chroniques de bugs & d’espoirs  
-💼 [LinkedIn](https://www.linkedin.com/in/laurelavie/)  
+📖 [immerswrite.blogspot.com](https://immerswrite.blogspot.com) – chroniques de bugs & de désespoirs  
+💼 [LinkedIn](https://www.linkedin.com/in/immerswrite/)  
 🌑 [immerswrite.carrd.co](https://immerswrite.carrd.co)
 
  
@@ -198,7 +199,7 @@ Immersion > scroll infini
 <br>
  
 **P.S.** Si tu cherches quelqu'un qui nomme ses branches `feat/bim-bam-boum`
-et parle de ses routes comme de personnages secondaires, on devrait discuter. 🌙
+et parle de sa vie alors que j'en ai rien à faire, on devrait discuter. 🌙
  
 **P.P.S.** Je ne travaille pas à distance. Je *vis* à distance. Nuance importante.
  
